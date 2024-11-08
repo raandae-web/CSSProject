@@ -55,7 +55,7 @@ ul{
 
 .pl{
     padding: 110px;
-    background-color: black;
+    background-color: gray;
 }
     
 .hero{
@@ -123,4 +123,83 @@ button{
     justify-content: center;
     gap: 50px;
     
+}
+
+.container4{
+    height: 500px;
+    background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.italic{
+    font-size: 36px;
+    font-style:italic;
+    font-weight: lighter;
+    max-width:900px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: flex-end;
+    word-spacing: 5px;
+    
+    
+}
+
+
+.thors{
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 900;
+}
+
+.container5{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.subcontainer6{
+    height: 150px;
+    width: 900px;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: #3882F6;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 10px;
+}
+
+.cta{
+    display: flex;
+    flex-direction: column;
+    font-size: 24px;
+    color: white;
+    font-weight: 900;
+}
+
+.outline{
+    border: 2px solid white;
+}
+
+.click{
+    font-size: 18px;
+    font-weight: normal;
+}
+
+.f-container{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#1F2937
+}
+
+.copyright{
+    color: white;
+    word-spacing: 2px;
 }
