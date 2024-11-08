@@ -78,7 +78,49 @@ button{
     
 }
 
-.bl{
-  padding: 200px;  
-  background-color: red;
+.info{
+    height: 190px;
+    width: 190px;
+    border-radius: 20px;
+    border:5px solid #3882F6;
+    
+    
+    
+
+    
+}
+
+.rando{
+    text-align: center;
+    font-size: 36px;
+    font-weight: 900;
+}
+
+.text{
+    font-size: 18px;
+    max-width: 200px;
+    text-align: center;
+}
+
+.container3{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    
+}
+
+.subcontainer2, .subcontainer3, .subcontainer4, .subcontainer5{
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    gap: 10px;
+}
+
+.s-subcontainer{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    
 }
