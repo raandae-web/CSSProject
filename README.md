@@ -12,5 +12,4 @@ An attempt at a (close to a) one-to-one recreation of the landing page .png prov
 
 ## Languages used
 
-HTML 
-CSS
+HTML, CSS
